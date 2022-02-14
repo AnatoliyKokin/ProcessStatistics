@@ -1,0 +1,9 @@
+.vs/
+CommnLibrary/bin/
+CommnLibrary/obj/
+CommnLibrary/Properties/
+ProcessStatistics/bin/
+ProcessStatistics/obj/
+ProcessStatistics/Properties/
+*.csproj
+*.sln
